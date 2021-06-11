@@ -1,4 +1,4 @@
-# Risk-Methodology-Assessment
+# Risk-Methodology-Assessment (RMA)
 The objective of RMA is to identify and assess risks in a clinical study, which can be minimized by monitoring activities
 
     It is therefore necessary to identify and assess risks that are directly related to the responsibilities during study monitoring
